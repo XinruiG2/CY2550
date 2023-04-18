@@ -13,5 +13,6 @@
   /proc/version r,
   /proc/buddyinfo r,
   /etc/crontab r,
+  /tmp/project21418082488 w,
   /home/xge24/template r,
 }
